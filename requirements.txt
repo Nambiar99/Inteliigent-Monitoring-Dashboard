@@ -1,0 +1,9 @@
+numpy==2.5.3
+pandas==3.0.6
+plotly==6.5.2
+trame==3.13.2
+trame_client==3.13.2
+trame_components==2.5.0
+trame_pyvista==0.1.7
+trame_vuetify==3.2.5
+vtk==9.6.2
